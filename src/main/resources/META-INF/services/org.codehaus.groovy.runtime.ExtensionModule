@@ -1,0 +1,5 @@
+moduleName=sql-observable
+moduleVersion=0.1-SNAPSHOT
+extensionClasses=com.github.mperry.SqlObservable
+staticExtensionClasses=
+
